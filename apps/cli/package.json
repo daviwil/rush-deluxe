@@ -1,0 +1,15 @@
+{
+  "name": "@daviwil/rush-deluxe",
+  "version": "1.0.0",
+  "description": "The CLI interface of this imaginary project",
+  "repository":"https://github.com/daviwil/rush-deluxe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@daviwil/rush-deluxe-logic": "~1.0.0"
+  }
+}
