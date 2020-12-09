@@ -1,0 +1,22 @@
+dependencies:
+  '@rush-temp/rush-deluxe': 'file:projects/rush-deluxe.tgz'
+  '@rush-temp/rush-deluxe-logic': 'file:projects/rush-deluxe-logic.tgz'
+lockfileVersion: 5.1
+packages:
+  'file:projects/rush-deluxe-logic.tgz':
+    dev: false
+    name: '@rush-temp/rush-deluxe-logic'
+    resolution:
+      integrity: sha512-UHAl+/hPZxE2RmGQ1+t89ck+De4pFkpKm5XBwvsFhjjsKgruS2U8Ng71GOaWRuF8wrHjKknivQMWZfqenlMPxg==
+      tarball: 'file:projects/rush-deluxe-logic.tgz'
+    version: 0.0.0
+  'file:projects/rush-deluxe.tgz':
+    dev: false
+    name: '@rush-temp/rush-deluxe'
+    resolution:
+      integrity: sha512-S9F63PfIjaPvh5z0+SQGEMYLjcsW6Srko5vSy8nLtHWJuk3PmjmTRQgP0rTi1wBGD4L2U0gVrKKcBwjvPKeYsQ==
+      tarball: 'file:projects/rush-deluxe.tgz'
+    version: 0.0.0
+specifiers:
+  '@rush-temp/rush-deluxe': 'file:./projects/rush-deluxe.tgz'
+  '@rush-temp/rush-deluxe-logic': 'file:./projects/rush-deluxe-logic.tgz'
