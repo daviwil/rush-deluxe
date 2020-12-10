@@ -1,0 +1,26 @@
+name: PR
+
+on:
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+      
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+
+    - run: node common/scripts/install-run-rush.js change -v
+      name: Verify change files
+      
+    - run: node common/scripts/install-run-rush.js install
+      name: Install dependencies
+      
+    - run: node common/scripts/install-run-rush.js rebuild --verbose
+      name: Build
