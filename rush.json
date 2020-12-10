@@ -428,13 +428,15 @@
     {
       "packageName": "@daviwil/rush-deluxe",
       "projectFolder": "apps/cli",
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "shouldPublish": true
     },
 
     {
       "packageName": "@daviwil/rush-deluxe-logic",
       "projectFolder": "lib/logic",
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "shouldPublish": true
     }
   ]
 }
