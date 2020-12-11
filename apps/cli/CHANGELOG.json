@@ -1,0 +1,17 @@
+{
+  "name": "@daviwil/rush-deluxe",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@daviwil/rush-deluxe_v1.0.1",
+      "date": "Fri, 11 Dec 2020 00:42:30 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@daviwil/rush-deluxe-logic\" from `~1.0.0` to `~1.1.0`"
+          }
+        ]
+      }
+    }
+  ]
+}

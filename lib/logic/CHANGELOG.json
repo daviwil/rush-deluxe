@@ -1,0 +1,17 @@
+{
+  "name": "@daviwil/rush-deluxe-logic",
+  "entries": [
+    {
+      "version": "1.1.0",
+      "tag": "@daviwil/rush-deluxe-logic_v1.1.0",
+      "date": "Fri, 11 Dec 2020 00:42:30 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Add writeMessage function"
+          }
+        ]
+      }
+    }
+  ]
+}

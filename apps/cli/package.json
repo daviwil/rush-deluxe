@@ -1,6 +1,6 @@
 {
   "name": "@daviwil/rush-deluxe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The CLI interface of this imaginary project",
   "repository":"https://github.com/daviwil/rush-deluxe",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@daviwil/rush-deluxe-logic": "~1.0.0"
+    "@daviwil/rush-deluxe-logic": "~1.1.0"
   }
 }
