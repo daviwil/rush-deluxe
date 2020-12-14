@@ -5,12 +5,16 @@
   "repository":"https://github.com/daviwil/rush-deluxe",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"OK.\"",
+    "build": "tsc -p .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@daviwil/rush-deluxe-logic": "~1.1.0"
+  },
+  "devDependencies": {
+    "@rushstack/heft": "~0.23.0",
+    "typescript": "~4.1.3"
   }
 }
