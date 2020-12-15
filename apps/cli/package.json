@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@daviwil/rush-deluxe-logic": "~1.1.3"
+    "@daviwil/rush-deluxe-logic": "~1.1.4"
   },
   "devDependencies": {
     "@rushstack/heft": "~0.23.0",
