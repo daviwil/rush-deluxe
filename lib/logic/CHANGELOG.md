@@ -1,6 +1,14 @@
 # Change Log - @daviwil/rush-deluxe-logic
 
-This log was last generated on Tue, 15 Dec 2020 19:54:50 GMT and should not be manually modified.
+This log was last generated on Tue, 15 Dec 2020 20:07:01 GMT and should not be manually modified.
+
+## 1.1.4
+Tue, 15 Dec 2020 20:07:01 GMT
+
+### Patches
+
+- Changed the message prefix
+- Fix package.json
 
 ## 1.1.3
 Tue, 15 Dec 2020 19:54:50 GMT
