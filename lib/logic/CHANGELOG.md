@@ -1,6 +1,13 @@
 # Change Log - @daviwil/rush-deluxe-logic
 
-This log was last generated on Tue, 15 Dec 2020 00:06:21 GMT and should not be manually modified.
+This log was last generated on Tue, 15 Dec 2020 19:54:50 GMT and should not be manually modified.
+
+## 1.1.3
+Tue, 15 Dec 2020 19:54:50 GMT
+
+### Patches
+
+- Fix format string
 
 ## 1.1.2
 Tue, 15 Dec 2020 00:06:21 GMT
