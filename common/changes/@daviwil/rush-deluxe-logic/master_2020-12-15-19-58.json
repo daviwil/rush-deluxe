@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@daviwil/rush-deluxe-logic",
+      "comment": "Changed the message prefix",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@daviwil/rush-deluxe-logic",
+  "email": "daviwil@microsoft.com"
+}
