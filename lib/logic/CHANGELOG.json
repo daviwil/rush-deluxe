@@ -2,6 +2,24 @@
   "name": "@daviwil/rush-deluxe-logic",
   "entries": [
     {
+      "version": "1.1.5",
+      "tag": "@daviwil/rush-deluxe-logic_v1.1.5",
+      "date": "Tue, 15 Dec 2020 20:14:42 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Changed the message prefix"
+          },
+          {
+            "comment": "Fix package.json"
+          },
+          {
+            "comment": "Fix version"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.3",
       "tag": "@daviwil/rush-deluxe-logic_v1.1.3",
       "date": "Tue, 15 Dec 2020 19:54:50 GMT",
