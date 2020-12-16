@@ -2,6 +2,18 @@
   "name": "@daviwil/rush-deluxe-logic",
   "entries": [
     {
+      "version": "1.2.0",
+      "tag": "@daviwil/rush-deluxe-logic_v1.2.0",
+      "date": "Wed, 16 Dec 2020 19:41:50 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Changed the format characters to hash"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.5",
       "tag": "@daviwil/rush-deluxe-logic_v1.1.5",
       "date": "Tue, 15 Dec 2020 20:14:42 GMT",

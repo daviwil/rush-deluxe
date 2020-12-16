@@ -1,6 +1,11 @@
 # Change Log - @daviwil/rush-deluxe
 
-This log was last generated on Tue, 15 Dec 2020 20:14:42 GMT and should not be manually modified.
+This log was last generated on Wed, 16 Dec 2020 19:41:50 GMT and should not be manually modified.
+
+## 1.1.2
+Wed, 16 Dec 2020 19:41:50 GMT
+
+_Version update only_
 
 ## 1.1.1
 Tue, 15 Dec 2020 20:14:42 GMT
